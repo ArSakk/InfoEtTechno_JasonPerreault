@@ -1,2 +1,1 @@
-Contenu Fichier 1
-Update
+Contenu du Fichier 1 dans la nouvelle branche
